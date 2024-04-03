@@ -1,0 +1,6 @@
+POST http://localhost:3000/api
+content-type: application/json
+
+{
+    "body": "this is body"
+}
